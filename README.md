@@ -1,0 +1,1 @@
+# rating_places_API
